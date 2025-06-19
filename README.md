@@ -43,19 +43,21 @@ This is a web-based restaurant recommendation system built using **Flask** and *
 ## 📁 Project Structure
 
 restaurant-recommendation/
-├── app.py           
+
+├── app.py                # Flask backend
 
 ├── Dataset .csv          # Dataset (restaurant data)
 
 ├── static/
 
-   └── style.css         # External CSS for styling
+│   └── style.css         # External CSS for styling
 
 ├── templates/
 
-   ├── index.html        # Home page (form input)
+│   ├── index.html        # Home page (form input)
 
-   └── results.html      # Recommendations display
+│   └── results.html      # Recommendations display
+
 
 
 ## Commands
