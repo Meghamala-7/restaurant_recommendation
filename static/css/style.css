@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('https://hblimg.mmtcdn.com/content/hubble/img/ttd_images/mmt/activities/t_ufs/m_Nellore_Exotica_the_garden_bakery_1_l_360_640.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background: rgba(255,255,255,0.9);
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+label, input, select, button {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #4CAF50;
+  color: white;
+  cursor: pointer;
+  border: none;
+  margin-top: 20px;
+}
+
+.card {
+  background: #f9f9f9;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.card img {
+  width: 100%;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+input, select {
+  outline: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+}
