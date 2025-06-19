@@ -49,13 +49,13 @@ restaurant-recommendation/
 
 ├── static/
 
-│   └── style.css         # External CSS for styling
+   └── style.css         # External CSS for styling
 
 ├── templates/
 
-│   ├── index.html        # Home page (form input)
+   ├── index.html        # Home page (form input)
 
-│   └── results.html      # Recommendations display
+   └── results.html      # Recommendations display
 
 
 ## Commands
